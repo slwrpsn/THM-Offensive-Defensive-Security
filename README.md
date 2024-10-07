@@ -10,7 +10,10 @@ Step 1) Open a terminal
 
 Step 2) Find hidden website pages
         Type the following command into the terminal to find potentially hidden pages on FakeBank's website using *GoBuster* (a command-line security application)
-        
+
+![Buster Call from One Piece](https://github.com/user-attachments/assets/19d06a68-f95a-44f3-bd95-339729b089b0)
+
+
 `gobuster -u http://fakebank.com -w wordlist.txt dir`
 
 `-u` is used to state the website we're scanning
