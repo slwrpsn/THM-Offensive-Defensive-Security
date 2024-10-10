@@ -158,13 +158,19 @@ There are many open-source databases out there, like **AbuseIPDB**, and **Cisco 
 Now that we know the IP address is malicious, we need to escalate it to a staff member!
 
 The results:
+
 143.110.250.149 was found in our database!
+
 Confidence of the IP being malicious is 100%
 
 Malicious
+
 ISP:	China Mobile Communications Corporation
+
 Domain Name:	chinamobileltd.thm
+
 Country:	China
+
 City:	Zhenjiang, Jiangsu
 
 > [!NOTE]
