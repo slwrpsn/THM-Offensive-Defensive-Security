@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1855CD&center=true&vCenter=true&multiline=true&width=435&lines=THM-Offensive-Defensive-Security)](https://git.io/typing-svg)
 
-*Brief Reflection and for Recollection.* 😼
+*Brief Reflection and for Recollection.* 😼 
 
 **Offensive Security** - is the process of breaking into computer systems, exploiting software bugs, and finding loopholes in applications to gain unauthorized access to them.
 - breaking into systems (Red team/Pentesters)
